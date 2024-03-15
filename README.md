@@ -9,6 +9,12 @@ Notebook: https://www.kaggle.com/code/kunalkhurana007/eda-univariate-bivariate-c
    
 ---------------------------------------------------
 
+2. Using SQL with python
+
+Certificate: https://www.linkedin.com/learning/certificates/41eba370458ffdd7556d1a90c55b6c83f03165ac9ae001c04f6ba9854aa02e9b
+
+------------------------------------------------------
+
 
 
 
