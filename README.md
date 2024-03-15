@@ -10,14 +10,11 @@ Notebook: https://www.kaggle.com/code/kunalkhurana007/eda-univariate-bivariate-c
 ---------------------------------------------------
 
 2. Using SQL with python
- 
- 
-Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/CertificateOfCompletion_Using%20SQL%20with%20Python%20(1).pdf
+ Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/CertificateOfCompletion_Using%20SQL%20with%20Python%20(1).pdf
 ------------------------------------------------------
 
 3. Data Visulazation with ChatGpt: Python for Dashboarding
-
-Certificate: Coursera 2B6EBBJEQB9D.pdf 
+Certificate: (https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Coursera%20EDA2WXSCAUQC.pdf)https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Coursera%20EDA2WXSCAUQC.pdf
 ----------------------------------------------------------------------
 
 
