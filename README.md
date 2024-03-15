@@ -14,7 +14,7 @@ Notebook: https://www.kaggle.com/code/kunalkhurana007/eda-univariate-bivariate-c
 ------------------------------------------------------
 
 3. Data Visulazation with ChatGpt: Python for Dashboarding
-Certificate: (https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Coursera%20EDA2WXSCAUQC.pdf)https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Coursera%20EDA2WXSCAUQC.pdf
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Coursera%20EDA2WXSCAUQC.pdf
 ----------------------------------------------------------------------
 
 
