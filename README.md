@@ -34,6 +34,19 @@ Notebook: https://colab.research.google.com/drive/1es8MIhFI5VT-UGWrb-COJtEp-5fCz
 
 ---------------------------------------------------------------------------
 
+5. Implementing Decision Trees from Scratch
+
+Notebook: https://www.kaggle.com/code/kunalkhurana007/decisiontree
+
+---------------------------------------------------------------------------
+
+6. Logistic Regression
+
+Notebook: https://www.kaggle.com/code/kunalkhurana007/logisticregression
+
+-----------------------------------------------------------------------------
+
+
 
 
 
