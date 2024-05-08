@@ -46,6 +46,18 @@ Notebook: https://www.kaggle.com/code/kunalkhurana007/logisticregression
 
 -----------------------------------------------------------------------------
 
+7. Linear Regression implementation
+
+Notebook: https://www.kaggle.com/code/kunalkhurana007/linear-regression
+
+-----------------------------------------------------------------------------------
+
+8. knn implementation
+
+Notebook: https://www.kaggle.com/code/kunalkhurana007/knn-algorithm
+
+-----------------------------------------------------------------------------------------
+
 
 
 
