@@ -58,6 +58,13 @@ Notebook: https://www.kaggle.com/code/kunalkhurana007/knn-algorithm
 
 -----------------------------------------------------------------------------------------
 
+9. Weather data (15 years) scarping and analysis
+
+Notebook: https://www.kaggle.com/code/kunalkhurana007/weather-data-analysis 
+
+---------------------------------------------------------------------------------------------
+
+
 
 
 
