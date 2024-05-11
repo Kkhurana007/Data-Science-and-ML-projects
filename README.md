@@ -75,6 +75,12 @@ Certificate:
 
 --------------------------------------------------------------------------------------------------
 
+12. Introduction to Python
+
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Coursera%20HJRS3MYH47FB.pdf
+
+--------------------------------------------------------------------------------------------------------
+
 12. Intermediate Python
 
 Certificate:  
