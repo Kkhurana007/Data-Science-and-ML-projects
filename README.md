@@ -89,7 +89,7 @@ Certificate:
 
 13. Python DataSciecne Toolbox (Part-2)
 
-Certificate:  
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/python_datascience_toolkit_part-2.pdf 
 
 --------------------------------------------------------------------------------------------------
 
