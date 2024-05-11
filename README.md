@@ -65,7 +65,7 @@ Notebook: https://www.kaggle.com/code/kunalkhurana007/weather-data-analysis
 ---------------------------------------------------------------------------------------------
 10. Pandas
 
-Certificate:  
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Kunal%20Khurana%20-%20Pandas.png 
 
 --------------------------------------------------------------------------------------------------
 
