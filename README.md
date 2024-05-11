@@ -62,11 +62,33 @@ Notebook: https://www.kaggle.com/code/kunalkhurana007/knn-algorithm
 
 Notebook: https://www.kaggle.com/code/kunalkhurana007/weather-data-analysis 
 
-https://www.kaggle.com/code/kunalkhurana007/weather-data-analysis?cellIds=4&kernelSessionId=176915603 
 ---------------------------------------------------------------------------------------------
+10. Pandas
 
+Certificate:  
 
+--------------------------------------------------------------------------------------------------
 
+11. Intro to Machine Learning
 
+Certificate:  
 
+--------------------------------------------------------------------------------------------------
 
+12. Intermediate Python
+
+Certificate:  
+
+--------------------------------------------------------------------------------------------------
+
+13. Python DataSciecne Toolbox (Part-2)
+
+Certificate:  
+
+--------------------------------------------------------------------------------------------------
+
+14. Machine Learning Explainability
+
+Certificate:
+
+---------------------------------------------------------------------------------------------------
