@@ -71,7 +71,7 @@ Certificate:
 
 11. Intro to Machine Learning
 
-Certificate:  
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Kunal%20Khurana%20-%20Intro%20to%20Machine%20Learning%20(3).png 
 
 --------------------------------------------------------------------------------------------------
 
@@ -95,6 +95,6 @@ Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/ma
 
 14. Machine Learning Explainability
 
-Certificate:
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Kunal%20Khurana%20-%20Machine%20Learning%20Explainability%20(1).png
 
 ---------------------------------------------------------------------------------------------------
