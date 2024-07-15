@@ -101,5 +101,9 @@ Certificate: [https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/m
 
 15. Introduction to Data Modeling for Power BI
 
-Certificate: ![image](https://github.com/user-attachments/assets/1d939e10-c5a1-4538-8ea5-f8c6ffec3ef8)
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/148093-80427.pdf
+
+-------------------------------------------------------------------------------------------------------
+
+
 
