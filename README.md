@@ -98,3 +98,8 @@ Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/ma
 Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/Kunal%20Khurana%20-%20Machine%20Learning%20Explainability%20(1).png
 
 ---------------------------------------------------------------------------------------------------
+
+15. Introduction to Data Modeling for Power BI
+
+Certificate: ![image](https://github.com/user-attachments/assets/1d939e10-c5a1-4538-8ea5-f8c6ffec3ef8)
+
