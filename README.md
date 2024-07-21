@@ -103,6 +103,13 @@ Certificate: [https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/m
 
 Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/148093-80427.pdf
 
+---------------------------------------------------------------------------------------------------
+
+16. DAX Video Course for Power BI
+
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/DAX.pdf
+
+
 -------------------------------------------------------------------------------------------------------
 
 
