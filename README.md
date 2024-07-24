@@ -113,4 +113,12 @@ Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/ma
 -------------------------------------------------------------------------------------------------------
 
 
+16. DAX Tools
+
+Certificate: https://github.com/Kkhurana007/Data-Science-and-ML-projects/blob/main/DAX.pdf
+
+
+-------------------------------------------------------------------------------------------------------
+
+
 
